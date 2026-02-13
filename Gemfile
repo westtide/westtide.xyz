@@ -35,7 +35,7 @@ group :other_plugins do
     gem 'httparty'
     gem 'observer'       # used by jekyll-scholar
     gem 'ostruct'        # used by jekyll-twitter-plugin
-    # gem 'terser'         # used by jekyll-terser
+    gem 'terser', '~> 1.2.6' # keep explicit to avoid source resolution issues in Ruby LSP composed bundle
     # gem 'unicode_utils' -- should be already installed by jekyll
     # gem 'webrick' -- should be already installed by jekyll
 end

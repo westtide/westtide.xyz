@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "sissel.shopify-liquid",
+    "yzhang.markdown-all-in-one",
+    "ms-azuretools.vscode-docker"
+  ],
+  "unwantedRecommendations": [
+    "shopify.ruby-lsp"
+  ]
+}

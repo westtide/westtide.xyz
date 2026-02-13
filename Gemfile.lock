@@ -324,6 +324,7 @@ DEPENDENCIES
   jemoji
   observer
   ostruct
+  terser (~> 1.2.6)
 
 BUNDLED WITH
   4.0.4

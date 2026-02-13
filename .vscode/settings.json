@@ -1,0 +1,13 @@
+{
+  "rubyLsp.enabled": false,
+  "files.watcherExclude": {
+    "**/.ruby-lsp/**": true,
+    "**/.jekyll-cache/**": true,
+    "**/_site/**": true
+  },
+  "search.exclude": {
+    "**/.ruby-lsp/**": true,
+    "**/.jekyll-cache/**": true,
+    "**/_site/**": true
+  }
+}
