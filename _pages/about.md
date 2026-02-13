@@ -6,7 +6,7 @@ subtitle: Ph.D. Student in Software Engineering at East China Normal University
 
 profile:
   align: right
-  image: prof_pic.JPG
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>East China Normal University</p>
